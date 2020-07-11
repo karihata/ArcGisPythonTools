@@ -1,0 +1,18 @@
+＜道路台帳データ変換pythonツールボックス.pyt＞
+1. Arcを起動してカタログから「道路台帳データ変換pythonツールボックス.pyt」を開く
+2.「Funabashi_Merge_And_Calculate_To_Doro_Daicho_Data」を起動
+3.作業用のフォルダを選択してOKを押下
+
+※CSVに関しては各自加工する
+※実行する際にはArcのライセンスがAdvancedになっていることを確認
+
+
+＜道路台帳データ変換pythonスタンドアロンスクリプト.py＞
+1.作業用のフォルダに「道路台帳データ変換pythonスタンドアロンスクリプト.py」と「dbf2csv.exe」「※4_convert.bat」をコピー
+2.「※4_convert.bat」を実行
+
+※CSVはそのまま渡せる状態です。
+※実行する際にはArcのライセンスがAdvancedになっていることを確認
+
+※上記2つのやり方は「※1_mkdir.bat」「※2_ren.bat」「※3_move.bat」をやった後に実行すること
+
